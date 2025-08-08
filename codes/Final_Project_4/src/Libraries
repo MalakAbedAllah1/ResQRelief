@@ -1,0 +1,35 @@
+# Add Class :-
+💡javax.swing.* : this package contains painting tools that can be used in the GUI like frames, buttons, panels, labels and more..(the star is to call all the classes in the package)
+💡java.awt.* : It is an old library (AWT: Abstract Window Toolkit), it contains tools for designing the GUI's tools like color, font, dimension and flowLayOut and more..
+💡java.awt.event.WindowAdapter : WindowAdapter is a class from the package java.awt.event, it helps to make events on the window screen(close,open,maximize...)
+💡java.awt.event.WindowEvent : WindowEvent is a class from the package java.awt.event, it relies on windowAdapter and windowListeners, it handle the events that can be done on the window like ( close window, open window, maximize window and more ), it must know the happened event to call the right code and do changes.
+💡java.util.regex.Pattern : Pattern is a class from the package java.util.regex, it helps to make templates to check the texts using the class matcher
+💡java.util.regex.Matcher : Matcher is a class from the package java.util.regex, it helps to check if the text patterns
+
+# Delete Class :-
+💡java.awt.event.FocusAdapter : FocusAdapter is a class in the package java.awt.event to make changes on the tool that has the focus
+💡java.awt.event.FocusEvent : FocusEvent is a class in the package java.awt.event to get more information about the events that had been done on the tool that has the focus
+
+# CustomerSorter Class :-
+💡java.io.* : (io : input/output) it is the library that helps to read and write from the data bases ( BufferReader, BufferWriter, IOException)
+💡java.util.* : it is the most important library, it contains all the data structures (queue, stack, hash table, hash map, arrayList and more)
+
+# EmailSender :-
+💡java.util.Properties : helps to save the data and read them as couples ( the key = the value )
+💡javax.mail.* : to send and receive emails
+💡javax.mail.internet.* : it is a sub library that handle the email's details
+
+# CustomerManagementSystem :-
+💡javax.swing.table.DefaultTableModel : to make changes on the hashTable
+💡javax.swing.table.DefaultTableCellRenderer : to design the cells inside the table and how to show them
+💡javax.swing.table.JTableHeader : to handle the titles of each columns in the table
+💡java.awt.event.MouseAdapter : we usw it to adapt with the mouse events ( click, hover, drag and release)
+💡java.awt.event.MouseEvent : it relies on mouseListener and mouseAdapter, how did the event done, how many clicks, which button (right/left mouse click)
+
+# CustomerManager :-
+💡 import java.util.List : it is an enter face acts a elements in the list, and it a base of the lists like arrayList
+
+
+
+
+
